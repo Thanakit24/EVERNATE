@@ -1,0 +1,5 @@
+Press C to activate cheatcode in-game. 
+
+The cheatcode stops the power sources energy from decreasing. You can press C again to deactive the cheatcode. 
+
+Please enjoy the game!
